@@ -1,0 +1,18 @@
+/* The animation code */
+@keyframes colorChange {
+    0% {
+        color: #41032e;
+    }
+
+    25% {
+        color: rgb(206, 9, 25);
+    }
+
+    50% {
+        color: #0aa812;
+    }
+
+    100% {
+        color: #ee2c26;
+    }
+}
